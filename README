@@ -1,0 +1,4 @@
+The brew nano project is separated into two components.
+
+brewnanod:	A socket based daemon with direct control over pumps, valves, elements, and sensors
+brewnanoui:	A php based web interface that uses sockets to communicate with the brewnanod
