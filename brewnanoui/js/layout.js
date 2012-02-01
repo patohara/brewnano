@@ -1,6 +1,7 @@
 $(function() {
 	$("#content").tabs();
 
+	$(".power").button();
 	$(".valve").button();
 	$(".pump").button();
 	$(".element")

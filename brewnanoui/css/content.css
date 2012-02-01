@@ -1,5 +1,5 @@
 body {
-	background-color: #888;
+	background-color: #431;
 	font-size: 14px;
 }
 
@@ -8,6 +8,10 @@ h1, h2, h3, h4, h5, h6 {
 	margin-top: 0px;
 }
 
-.manual_block {
-	color: #000;
+#header {
+	color: #ffc;
+}
+
+.ui-tabs .ui-tabs-panel {
+	padding: 0px;
 }

@@ -22,34 +22,50 @@
 	text-align: center;
 }
 
-.manual_block {
-	border: 1px solid #000;
-	background: #777;
-	padding: 5px;
+.left {
 	float: left;
-	width: 455px;
-	height: 275px;
-	margin: 10px;
+}
+
+.right {
+	float: right;
+}
+
+.power_block {
+	padding: 5px;
+	display: block;
+}
+
+.manual_block {
+	padding: 5px;
+	width: 494px;
+	height: 268px;
+	margin-top: 5px;
+	display: block;
+}
+
+.powerlabel {
+	width: 183px;
+	margin: 5px;
 }
 
 .valvelabel {
-	width: 92px;
-	height: 92px;
-	margin: 15px;
+	width: 100px;
+	height: 100px;
+	margin: 10px;
 	float: left;
 }
 
 .valvelabel span {
-	margin-top: 30px;
+	margin-top: 35px;
 }
 
 .pumplabel, .elementlabel {
-	width: 200px;
-	height: 200px;
+	width: 215px;
+	height: 215px;
 	margin: 15px;
 	float: left;
 }
 
 .pumplabel span, .elementlabel span {
-	margin-top: 85px;
+	margin-top: 90px;
 }
